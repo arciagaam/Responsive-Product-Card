@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-[MONITORS](./screenshots/screenshot-1.jpeg)
-[MOBILE](./screenshots/screenshot-2.jpeg)
+![MONITOR](./screenshots/screenshot-1.jpeg)
+![MOBILE](./screenshots/screenshot-2.jpeg)
 
 
 ### Built with
